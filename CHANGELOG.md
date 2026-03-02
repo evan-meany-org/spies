@@ -1,3 +1,7 @@
+## v0.0.4
+### Changed
+- Token name to GIT_GOBLIN_PAT
+
 ## v0.0.3
 ### Changed
 - Automated version commit message
