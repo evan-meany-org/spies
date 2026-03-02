@@ -1,0 +1,11 @@
+## v0.0.1
+### Added
+- .gitattributes enforcing LF for scripts, workflows, and source files
+- Automated version bumping
+- Automated changelog generation
+### Changed
+- Converted repository files to LF to prevent CI shebang failures
+- Workflow naming cleanup
+### Removed
+- Old release.yml workflow
+
