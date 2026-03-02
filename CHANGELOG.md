@@ -1,3 +1,7 @@
+## v0.0.2
+### Changed
+- Push to push all tags (even non-annotated)
+
 ## v0.0.1
 ### Added
 - .gitattributes enforcing LF for scripts, workflows, and source files
